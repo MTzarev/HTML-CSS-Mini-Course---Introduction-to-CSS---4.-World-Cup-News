@@ -1,0 +1,24 @@
+main{
+    background-color: rgb(166, 225, 236);
+border: solid;
+border-width: 1px;
+padding: 10px;
+margin: 10px;
+}
+section article{
+    border: solid;
+    border-width: 1px;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+   
+}
+section article img, article p{
+    display:inline-block;
+    vertical-align: middle;
+    width: 10%;
+}
+section article span{
+    color:rgb(62, 79, 180);
+font-weight: bold;
+    }
